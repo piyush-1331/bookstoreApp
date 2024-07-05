@@ -1,0 +1,100 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem, ipsusum dolor sit met consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?ga=GA1.1.506291228.1719902697&semt=sph"
+    },
+
+    {
+        "id":2,
+        "name":"Story Book",
+        "title":"Lorem, ipsusum dolor sit met consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?ga=GA1.1.506291228.1719902697&semt=sph"
+    },
+
+    {
+        "id":3,
+        "name":"Nature Book",
+        "title":"Lorem, ipsusum dolor sit met consectetur adipisicing elit.",
+        "price":80,
+        "category":"Nature",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?ga=GA1.1.506291228.1719902697&semt=sph"
+    },
+
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"Lorem, ipsusum dolor sit met consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?ga=GA1.1.506291228.1719902697&semt=sph"
+    },
+
+    {
+        "id":5,
+        "name":"Food Book",
+        "title":"Lorem, ipsusum dolor sit met consectetur adipisicing elit.",
+        "price":100,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?ga=GA1.1.506291228.1719902697&semt=sph"
+    },
+
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"Lorem, ipsusum dolor sit met consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?ga=GA1.1.506291228.1719902697&semt=sph"
+    },
+
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Lorem, ipsusum dolor sit met consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?ga=GA1.1.506291228.1719902697&semt=sph"
+    },
+
+    {
+        "id":8,
+        "name":"Sports Book",
+        "title":"Lorem, ipsusum dolor sit met consectetur adipisicing elit.",
+        "price":50,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?ga=GA1.1.506291228.1719902697&semt=sph"
+    },
+
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"Lorem, ipsusum dolor sit met consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?ga=GA1.1.506291228.1719902697&semt=sph"
+    },
+
+    {
+        "id":10,
+        "name":"Comedy Book",
+        "title":"Lorem, ipsusum dolor sit met consectetur adipisicing elit.",
+        "price":20,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?ga=GA1.1.506291228.1719902697&semt=sph"
+    },
+
+    {
+        "id":11,
+        "name":"Story Book",
+        "title":"Lorem, ipsusum dolor sit met consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?ga=GA1.1.506291228.1719902697&semt=sph"
+    }
+]
